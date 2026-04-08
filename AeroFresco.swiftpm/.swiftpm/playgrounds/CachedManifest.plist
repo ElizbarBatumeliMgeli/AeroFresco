@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CachedManifest</key>
+	<dict>
+		<key>manifestData</key>
+		<data>
+		eyJkZXBlbmRlbmNpZXMiOltdLCJkaXNwbGF5TmFtZSI6IkFlcm9GcmVzY28i
+		LCJwYWNrYWdlS2luZCI6eyJyb290Ijp7fX0sInBsYXRmb3JtcyI6W3sib3B0
+		aW9ucyI6W10sInBsYXRmb3JtTmFtZSI6ImlvcyIsInZlcnNpb24iOiIyNi4w
+		In1dLCJwcm9kdWN0cyI6W3sibmFtZSI6IkFlcm9GcmVzY28iLCJzZXR0aW5n
+		cyI6W3siYnVuZGxlSWRlbnRpZmllciI6WyJBbHBoYTEyMy5BZXJvU2tldGNo
+		Il19LHsidGVhbUlkZW50aWZpZXIiOlsiUjJXRFM2Wk1RNiJdfSx7ImRpc3Bs
+		YXlWZXJzaW9uIjpbIjEuMCJdfSx7ImJ1bmRsZVZlcnNpb24iOlsiMSJdfSx7
+		ImlPU0FwcEluZm8iOlt7ImFjY2VudENvbG9yIjp7InByZXNldENvbG9yIjp7
+		InByZXNldENvbG9yIjp7InJhd1ZhbHVlIjoiY3lhbiJ9fX0sImFwcENhdGVn
+		b3J5Ijp7InJhd1ZhbHVlIjoicHVibGljLmFwcC1jYXRlZ29yeS5nYW1lcyJ9
+		LCJhcHBJY29uIjp7ImFzc2V0Ijp7Im5hbWUiOiJBcHBJY29uIn19LCJjYXBh
+		YmlsaXRpZXMiOlt7InB1cnBvc2UiOiJjYW1lcmEiLCJwdXJwb3NlU3RyaW5n
+		IjoiV2UgbmVlZCBjYW1lcmEgdG8gZGV0ZWN0IHlvdXIgaGFuZCBtb3ZlbWVu
+		dCBhbmQgc2hvdyBsaXZlIHZpZXcifV0sInN1cHBvcnRlZERldmljZUZhbWls
+		aWVzIjpbInBhZCIsInBob25lIl0sInN1cHBvcnRlZEludGVyZmFjZU9yaWVu
+		dGF0aW9ucyI6W3sibGFuZHNjYXBlUmlnaHQiOnt9fV19XX1dLCJ0YXJnZXRz
+		IjpbIkFwcE1vZHVsZSJdLCJ0eXBlIjp7ImV4ZWN1dGFibGUiOm51bGx9fV0s
+		InRhcmdldE1hcCI6eyJBcHBNb2R1bGUiOnsiZGVwZW5kZW5jaWVzIjpbXSwi
+		ZXhjbHVkZSI6W10sIm5hbWUiOiJBcHBNb2R1bGUiLCJwYWNrYWdlQWNjZXNz
+		Ijp0cnVlLCJwYXRoIjoiLiIsInJlc291cmNlcyI6W10sInNldHRpbmdzIjpb
+		XSwidHlwZSI6ImV4ZWN1dGFibGUifX0sInRhcmdldHMiOlt7ImRlcGVuZGVu
+		Y2llcyI6W10sImV4Y2x1ZGUiOltdLCJuYW1lIjoiQXBwTW9kdWxlIiwicGFj
+		a2FnZUFjY2VzcyI6dHJ1ZSwicGF0aCI6Ii4iLCJyZXNvdXJjZXMiOltdLCJz
+		ZXR0aW5ncyI6W10sInR5cGUiOiJleGVjdXRhYmxlIn1dLCJ0b29sc1ZlcnNp
+		b24iOnsiX3ZlcnNpb24iOiI2LjAuMCJ9fQ==
+		</data>
+		<key>manifestHash</key>
+		<data>
+		m9tYgbDnqhQedF1hD+K7Xn559ujtmANWr1oWz9vdB0c=
+		</data>
+		<key>schemaVersion</key>
+		<integer>4</integer>
+		<key>swiftPMVersionString</key>
+		<string>6.0.2-dev</string>
+	</dict>
+</dict>
+</plist>
